@@ -1,0 +1,3 @@
+../Nb_api/Src/nb_adc_api.c:25:6:NB_ADC_MUX_select	4
+../Nb_api/Src/nb_adc_api.c:66:6:NB_ADC_input	2
+../Nb_api/Src/nb_adc_api.c:89:10:NB_ADC_read	2

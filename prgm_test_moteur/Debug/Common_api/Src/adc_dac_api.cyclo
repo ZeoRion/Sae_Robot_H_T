@@ -1,0 +1,3 @@
+../Common_api/Src/adc_dac_api.c:27:6:ADC_input	1
+../Common_api/Src/adc_dac_api.c:37:6:DAC_output	1
+../Common_api/Src/adc_dac_api.c:47:6:GPIO_analog	1

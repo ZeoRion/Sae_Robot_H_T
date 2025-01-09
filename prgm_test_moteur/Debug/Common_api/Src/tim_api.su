@@ -1,0 +1,11 @@
+../Common_api/Src/tim_api.c:36:6:TIM_wait_ms	16	static
+../Common_api/Src/tim_api.c:46:6:TIM_wait_us	24	static
+../Common_api/Src/tim_api.c:58:6:TIM_start	4	static
+../Common_api/Src/tim_api.c:74:6:TIM_stop	4	static
+../Common_api/Src/tim_api.c:89:6:TIM_reset	4	static
+../Common_api/Src/tim_api.c:107:10:TIM_read_ms	8	static
+../Common_api/Src/tim_api.c:117:10:TIM_read_us	4	static
+../Common_api/Src/tim_api.c:137:6:TIM_attach_isr_ms	16	static
+../Common_api/Src/tim_api.c:150:6:TIM_detach_isr_ms	4	static
+../Common_api/Src/tim_api.c:165:6:TIM_timeout_ms	16	static
+../Common_api/Src/tim_api.c:178:6:TIM_cancel_timeout_ms	4	static

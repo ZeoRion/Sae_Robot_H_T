@@ -1,0 +1,2 @@
+../Nb_api/Src/nb_dac_api.c:24:6:NB_DAC_output	16	static
+../Nb_api/Src/nb_dac_api.c:49:6:NB_DAC_write	16	static

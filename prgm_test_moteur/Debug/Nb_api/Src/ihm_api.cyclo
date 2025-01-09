@@ -1,0 +1,6 @@
+../Nb_api/Src/ihm_api.c:41:6:IHM_LCD_locate	1
+../Nb_api/Src/ihm_api.c:52:6:IHM_LCD_printf	7
+../Nb_api/Src/ihm_api.c:92:6:IHM_LCD_clear	2
+../Nb_api/Src/ihm_api.c:112:6:IHM_BAR_write	1
+../Nb_api/Src/ihm_api.c:128:9:IHM_JOG_read	2
+../Nb_api/Src/ihm_api.c:149:8:IHM_COD_read	2

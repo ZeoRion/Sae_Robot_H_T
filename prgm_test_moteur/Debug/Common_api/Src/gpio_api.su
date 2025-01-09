@@ -1,0 +1,7 @@
+../Common_api/Src/gpio_api.c:27:6:HAL_GPIO_EXTI_Callback	24	static
+../Common_api/Src/gpio_api.c:49:6:GPIO_input	40	static
+../Common_api/Src/gpio_api.c:69:6:GPIO_attach_isr	48	static
+../Common_api/Src/gpio_api.c:104:6:GPIO_output	40	static
+../Common_api/Src/gpio_api.c:120:9:GPIO_read	16	static
+../Common_api/Src/gpio_api.c:132:6:GPIO_write	16	static
+../Common_api/Src/gpio_api.c:143:6:GPIO_toggle	16	static

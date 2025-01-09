@@ -1,0 +1,2 @@
+../Nb_api/Src/nb_bus_api.c:30:6:NB_8LED_output	24	static
+../Nb_api/Src/nb_bus_api.c:56:6:NB_8LED_write	24	static

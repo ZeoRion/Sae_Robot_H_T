@@ -1,0 +1,276 @@
+!SESSION 2025-01-09 12:08:32.909 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\travail\Hugo_ROYO\Sae_Robot_H_T
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:36.164
+!MESSAGE System property http.proxyHost has been set to cache.u-psud.fr by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:36.165
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:36.291
+!MESSAGE System property https.proxyHost has been set to cache.u-psud.fr by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:36.292
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-01-09 12:08:38.938
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-01-09 12:08:38.948
+!MESSAGE Log4j2 initialized with config file C:\travail\Hugo_ROYO\Sae_Robot_H_T\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:40.404
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:40.405
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:40.405
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-01-09 12:08:41.889
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.189
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.189
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.190
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.217
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.218
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.218
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.219
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.219
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.219
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.220
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.220
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.220
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.221
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.221
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.222
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.222
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.222
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.223
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.224
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.224
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.225
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.228
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.229
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.229
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.313
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.314
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.314
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.315
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.316
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.316
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.317
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.317
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.318
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.318
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.319
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.319
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.320
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.320
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.321
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.321
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.322
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.322
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.323
+!MESSAGE System property http.proxyHost is set to cache.universite-paris-saclay.fr but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.324
+!MESSAGE System property https.proxyHost is set to cache.universite-paris-saclay.fr but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:46.324
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.439
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.440
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.440
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.441
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.442
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.443
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.443
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.444
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.445
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.445
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.446
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.447
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.448
+!MESSAGE System property http.proxyHost is not set but should be cache.u-psud.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2025-01-09 12:08:50.448
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.ui.workbench 4 2 2025-01-09 12:09:38.089
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.managedbuilder.core.IManagedBuildInfo.getDefaultConfiguration()" because "buildInfo" is null
+	at com.st.stm32cube.ide.mcu.build.ui.decorator.BoldDecorator.decorate(BoldDecorator.java:79)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:253)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.queue(DecorationScheduler.java:419)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:397)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 4 4 2025-01-09 12:09:38.090
+!MESSAGE Exception in Decorator. The 'linkerDecorator' decorator will be disabled.
+!SUBENTRY 1 org.eclipse.ui 4 4 2025-01-09 12:09:38.090
+!MESSAGE Cannot invoke "org.eclipse.cdt.managedbuilder.core.IManagedBuildInfo.getDefaultConfiguration()" because "buildInfo" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.managedbuilder.core.IManagedBuildInfo.getDefaultConfiguration()" because "buildInfo" is null
+	at com.st.stm32cube.ide.mcu.build.ui.decorator.BoldDecorator.decorate(BoldDecorator.java:79)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:253)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.queue(DecorationScheduler.java:419)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:397)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-09 12:09:41.124
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-09 12:09:41.124
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-09 12:09:41.124
+!MESSAGE C:\travail\Hugo_ROYO\Sae_Robot_H_T\prgm_test_moteur overlaps the location of another project: 'prgm_test_moteur'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2025-01-09 12:09:41.125
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-09 12:09:42.650
+!MESSAGE Indexed 'prgm_test_moteur' (48 sources, 138 headers) in 5.9 sec: 12,175 declarations; 78,377 references; 2 unresolved inclusions; 49 syntax errors; 188 unresolved names (0.21%)
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-09 12:10:14.027
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-09 12:10:14.027
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-09 12:10:14.027
+!MESSAGE C:\travail\Hugo_ROYO\Sae_Robot_H_T\prgm_test_moteur overlaps the location of another project: 'prgm_test_moteur'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2025-01-09 12:10:14.028
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-09 12:10:14.214
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-09 12:10:14.214
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-09 12:10:14.214
+!MESSAGE C:\travail\Hugo_ROYO\Sae_Robot_H_T\prgm_test_moteur overlaps the location of another project: 'prgm_test_moteur'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2025-01-09 12:10:14.215
+!MESSAGE Project is null

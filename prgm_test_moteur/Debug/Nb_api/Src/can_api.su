@@ -1,0 +1,5 @@
+../Nb_api/Src/can_api.c:38:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Nb_api/Src/can_api.c:56:6:CAN_config_filters	48	static
+../Nb_api/Src/can_api.c:83:6:CAN_send_data_frame	16	static
+../Nb_api/Src/can_api.c:98:6:CAN_send_remote_frame	16	static
+../Nb_api/Src/can_api.c:113:6:CAN_decode_IHM	16	static
